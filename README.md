@@ -1,2 +1,2 @@
-# hello-world
+# prime number
 Simple Basic Program
